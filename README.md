@@ -1,5 +1,5 @@
 # HTOA
-Heat transfer relation-based optimization algorithm - Matlb Codes (Implementations)
+Heat transfer relation-based optimization algorithm - Matlab Codes (Implementations)
 
 Article: [10.1007/s00500-021-05734-0](https://doi.org/10.1007/s00500-021-05734-0)
 
